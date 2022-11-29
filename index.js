@@ -4,3 +4,4 @@ console.log(num);
 let nnn = num - 10;
 console.log(newNum);
 console.log(nnn);
+num
