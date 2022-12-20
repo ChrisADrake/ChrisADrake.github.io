@@ -288,7 +288,13 @@ header p { color: #d8d8d8; text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0; font-size: 1
 
 section { width: 40vw; padding: 30px 30px 50px 30px; margin: 20px 0; margin-top: 190px; position: relative; background: #fbfbfb; border-radius: 3px; border: 1px solid #cbcbcb; box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09), inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5), inset 0 0 5px 5px rgba(255, 255, 255, 0.4); }
 
-button.projects { background: #ffcc00; border: none; border-radius: 10px; padding: 10px; margin: auto; }
+button.projects { background: #ffcc00; border: none; border-radius: 10px; padding: 10px; margin-left: 45%; margin-bottom: 40px; }
+
+aside a.current { background-color: #FFE37F; }
+
+div.gallery { display: flex; flex-flow: column wrap; }
+
+img.site-preview { width: 40%; display: block; }
 
 small { font-size: 12px; }
 
