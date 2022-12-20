@@ -288,14 +288,11 @@ header p { color: #d8d8d8; text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0; font-size: 1
 
 section { width: 40vw; padding: 30px 30px 50px 30px; margin: 20px 0; margin-top: 190px; position: relative; background: #fbfbfb; border-radius: 3px; border: 1px solid #cbcbcb; box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09), inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5), inset 0 0 5px 5px rgba(255, 255, 255, 0.4); }
 
+section img { border: #82B6D6 2px solid; }
+
 button.projects { background: #ffcc00; border: none; border-radius: 10px; padding: 10px; margin-left: 45%; margin-bottom: 40px; }
 
-aside a.current { background-color: #FFE37F; }
-
-div.gallery { display: flex; flex-flow: column wrap; }
-
-img.site-preview { width: 40%; display: block; }
-
+/* div.gallery{ display:flex; flex-flow: column wrap; } img.site-preview{ width:40%; display:block; } */
 small { font-size: 12px; }
 
 nav#internal { width: 230px; position: fixed; top: 220px; left: 45%; margin-left: -480px; text-align: right; }
@@ -316,6 +313,9 @@ nav#internal ul a:hover { color: #999; }
 
 aside { text-align: left; font-size: 1.2em; width: 230px; position: fixed; top: 220px; right: 200px; }
 
+aside a.current { background-color: #FFE37F; }
+
+/* .gallery{ display: flex; flex-flow: row wrap; width:auto; } .gallery-item{ width:40%; } */
 footer { width: 180px; position: fixed; left: 50%; margin-left: -530px; bottom: 20px; text-align: right; line-height: 16px; }
 
 @media print, screen and (max-width: 1060px) { div.wrapper { width: auto; margin: 0; } nav { display: none; } header, section, footer { float: none; } header h1, section h1, footer h1 { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; -o-text-overflow: ellipsis; -ms-text-overflow: ellipsis; } #banner { width: 100%; } #banner .downloads { margin-right: 60px; } #banner #logo { margin-right: 15px; } section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 0; margin: 190px auto 20px; max-width: 600px; } footer { text-align: center; margin: 20px auto; position: relative; left: auto; bottom: auto; width: auto; } }

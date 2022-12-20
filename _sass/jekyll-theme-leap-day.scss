@@ -297,6 +297,10 @@ section {
   box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
 }
 
+section img{
+  border: #82B6D6 2px solid;
+}
+
 // Button on home page
 button.projects{
   background: #ffcc00;
@@ -307,19 +311,14 @@ button.projects{
   margin-bottom: 40px;
 }
 
-//Current page link highlighting
-aside a.current{
-  background-color: #FFE37F;
-}
-
-div.gallery{
+/* div.gallery{
   display:flex;
   flex-flow: column wrap;
 }
 img.site-preview{
   width:40%;
   display:block;
-}
+} */
 
 small {
   font-size:12px;
@@ -389,6 +388,20 @@ aside{
   right: 200px;
 }
 
+//Current page link highlighting
+aside a.current{
+  background-color: #FFE37F;
+}
+
+/* .gallery{
+  display: flex;
+  flex-flow: row wrap;
+  width:auto;
+}
+
+.gallery-item{
+  width:40%;
+} */
 
 footer {
   width:180px;
