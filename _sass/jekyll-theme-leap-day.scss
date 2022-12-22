@@ -46,6 +46,15 @@ h3 {
   font-size: 18px;
   line-height: 24px;
 }
+//
+p#subtitle{
+  color:#333;
+  margin:0 0 10px;
+  color:#666666;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+}
 
 a {
   color:#4276b6;
@@ -298,7 +307,10 @@ section {
 }
 
 section img{
-  border: #82B6D6 2px solid;
+  border-top: #C2E6FF 5px solid;
+  border-left: #C2E6FF 5px solid;
+  border-bottom: #A2D6F6 5px solid;
+  border-right: #A2D6F6 5px solid;
 }
 
 // Button on home page

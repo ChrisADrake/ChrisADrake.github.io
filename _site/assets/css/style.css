@@ -226,6 +226,8 @@ h3, h4, h5, h6 { color: #666666; }
 
 h3 { font-size: 18px; line-height: 24px; }
 
+p#subtitle { color: #333; margin: 0 0 10px; color: #666666; font-size: 18px; line-height: 24px; font-weight: 700; }
+
 a { color: #4276b6; font-weight: 400; text-decoration: none; }
 
 a small { font-size: 11px; color: #666; margin-top: -0.6em; display: block; }
@@ -288,7 +290,7 @@ header p { color: #d8d8d8; text-shadow: rgba(0, 0, 0, 0.2) 0 1px 0; font-size: 1
 
 section { width: 40vw; padding: 30px 30px 50px 30px; margin: 20px 0; margin-top: 190px; position: relative; background: #fbfbfb; border-radius: 3px; border: 1px solid #cbcbcb; box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.09), inset 0px 0px 2px 2px rgba(255, 255, 255, 0.5), inset 0 0 5px 5px rgba(255, 255, 255, 0.4); }
 
-section img { border: #82B6D6 2px solid; }
+section img { border-top: #C2E6FF 5px solid; border-left: #C2E6FF 5px solid; border-bottom: #A2D6F6 5px solid; border-right: #A2D6F6 5px solid; }
 
 button.projects { background: #ffcc00; border: none; border-radius: 10px; padding: 10px; margin-left: 45%; margin-bottom: 40px; }
 

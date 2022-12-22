@@ -3,6 +3,14 @@ layout: default
 title: About
 ---
 
-# About Page
+# I Love To Make Things
 
-So, about me...
+<br>
+
+- **Delicious meals and recipes**
+- **Shopify sites for businesses**
+- **Flavorful cocktails**
+- **The words on your screen**
+- **3D models for 3D printing**
+- **Some art here and there**
+
