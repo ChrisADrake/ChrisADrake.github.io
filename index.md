@@ -1,4 +1,5 @@
 ---
+title: Code Your Shop.com
 layout: default
 ---
 
