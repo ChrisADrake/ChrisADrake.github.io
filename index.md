@@ -1,5 +1,6 @@
 ---
 title: Code Your Shop.com
+description: Have A Shopify Site Created For Your Business
 layout: default
 ---
 
