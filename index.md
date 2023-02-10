@@ -4,8 +4,8 @@ layout: default
 
 # Get Your Products Online with Shopify
 
-<p id="subtitle">Whether you need your first site ready for new shoppers, migrating from another e-commerce platform,
- or just want to revamp an existing store, you have come to the right place.</p>
+<p id="subtitle">Whether you need your first site ready for new shoppers, you're migrating from another e-commerce platform,
+ or you just want to revamp an existing store, you've come to the right place.</p>
 <br>
 ## New Online Store
 
@@ -30,12 +30,16 @@ to help manage inventory, customer data, and much more. This service includes:
 - Connect social media accounts for advertising & shopping
 
 <br>
-## SEO, Site Optimization, Analytics, Store Referesh
+## SEO, Site Optimization, & More
 
 I can also help to increase your current site's *search engine optimization* so your business is 
 shown more in relevant searches. There are also tools to analyze and increase the loading speed of your
-site. What if you need help converting more visiting customers to buying customers? Or maybe you just want 
-to try a new colorway or theme? All that and more can be found here
+site. Here is more of what I offer:
+
+- Learn how to convert more window shoppers to actual shoppers
+- Implement & review analytic data to promote your products better
+- Discuss & implement subscriptions, discounts, in-cart upsells, & other savings
+- Try a new colorway or theme, install apps, or custom widgets 
 
 <br>
 <hr>
@@ -44,14 +48,21 @@ to try a new colorway or theme? All that and more can be found here
 # Recent Projects
 
 <br>
-## Style Boulevard Online
-
-![Style Boulevard Online Home Page](/assets/images/Style%20Blvd%20Home.png)
-
-<a href="/styleblvd.html"><button class="projects">See More</button></a>
 
 ## Star Society
 
-![Star Society Home Page](/assets/images/Star%20Soc%20Home.png)
+[![Star Society Home Page](/assets/images/Star%20Soc%20Home.png)](/starsociety.html)
 
-<a href="/starsociety.html"><button class="projects">See More</button></a>
+<a href="/starsociety.html"><button class="projects center">See More</button></a>
+
+## Style Boulevard Online
+
+[![Style Boulevard Online Home Page](/assets/images/Style%20Blvd%20Home%20THUMB.png)](/styleblvd.html)
+
+<a href="/styleblvd.html"><button class="projects center">See More</button></a>
+
+## Slate Coffee
+
+[![Slate Coffee Home Page](/assets/images/Slate%20Coffee%20Home%20THUMB.png)](/slatecoffee.html)
+
+<a href="/slatecoffee.html"><button class="projects center">See More</button></a>

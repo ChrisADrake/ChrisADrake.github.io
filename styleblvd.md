@@ -8,32 +8,30 @@ layout: default
 
 Here is a site for a clothing retailer that has product filtering in the catalog and
 a static menu that can be browsed from any page. These tools are built into the theme itself, and
-it supports custom swatches from a color or image. Shopify can keep track of inventory, even
-across multiple storage locations, to show what is available.
+it supports custom swatches from a color or image.
+
+Product categories can be created from tags or important details like the manufacturer, and those pages will be added to the menu.  This site also has a review app installed and can display allowed reviews on the product pages. 
 
 ## Video Tour Of The Site
 
+<div style="position: relative; padding-bottom: 60.416666666666664%; height: 0;"><iframe src="https://www.loom.com/embed/c8d64048e9f044258d30378b0a62534c" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<br>
+<hr>
+
 ## Gallery
 
-<div id="gallery">
-  <div class="gallery-item">
-    <a href="/assets/images/Style%20Blvd%20Home.png" target="_blank"><img src="/assets/images/Style%20Blvd%20Home.png" alt="Style Boulevard Online Home Page" class="site-preview"></a>
-    <p>Style Boulevard Online home page</p>
-  </div>
-  <div class="gallery-item">
-    <a href="/assets/images/Style%20Blvd%20Combo%20Items.png" target="_blank"><img src="/assets/images/Style%20Blvd%20Combo%20Items.png" alt="A Shop This Look section from the home page" class="site-preview"></a>
-    <p>A 'Shop This Look' section from the home page</p>
-  </div>
-  <div class="galler-item">
-     <a href="/assets/images/Style%20Blvd%20Sports%20Tee.png" target="_blank"><img src="/assets/images/Style%20Blvd%20Sports%20Tee.png" alt="Women's t-shirt with different colors and sizing options" class="site-preview"></a>
-     <p>Women's t-shirt with different colors and sizing options</p>
-  </div>
-  <div class="gallery-item">
-    <a href="/assets/images/Style Blvd Womens.png" target="_blank"><img src="/assets/images/Style Blvd Womens.png" alt="Women's catalog collection page with filtering options on the right" class="site-preview"></a>
-    <p>Women's catalog collection page with filtering options on the right</p>
-  </div>
-  <div class="gallery-item">
-    <a href="/assets/images/Style%20Blvd%20Mens.png" target="_blank"><img src="/assets/images/Style%20Blvd%20Mens.png" alt="Men's catalog collection page, also with filtering options" class="site-preview"></a>
-    <p>Men's catalog collection page, also with filtering options</p>
-  </div>
-</div>
+[![Style Boulevard Online's home page](/assets/images/Style%20Blvd%20Home%20THUMB.png)](/assets/images/Style%20Blvd%20Home%20Full.png)
+*Style Boulevard Online's home page*
+
+[![A shop this look section on the home page](/assets/images/Style%20Blvd%20Combo%20Items.png)](/assets/images/Style%20Blvd%20Combo%20Items.png)
+*A shop this look section on the home page*
+
+[![Women's product collection page](/assets/images/Style%20Blvd%20Womens%20THUMB.png)](/assets/images/Style%20Blvd%20Womens.png)
+*Women's product collection page*
+
+[![Men's product collection page](/assets/images/Style%20Blvd%20Mens%20THUMB.png)](/assets/images/Style%20Blvd%20Mens.png)
+*Men's product collection page*
+
+[![Sample product page with shipping information](/assets/images/Style%20Blvd%20Sports%20Tee%20THUMB.png)](/assets/images/Style%20Blvd%20Sports%20Tee.png)
+*Sample product page with shipping information*

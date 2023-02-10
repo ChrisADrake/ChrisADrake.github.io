@@ -1,10 +1,14 @@
 - name: Home
   link: /index.html
-- name: Style Blvd
-  link: /styleblvd.html
 - name: Star Society
   link: /starsociety.html
+- name: Style Blvd
+  link: /styleblvd.html  
+- name: Slate Coffee
+  link: /slatecoffee.html
 - name: About
   link: /about.html
 - name: Contact
   link: /contact.html
+
+
