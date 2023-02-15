@@ -4,7 +4,7 @@ title: Contact
 description: How To Get In Touch To Get Started
 ---
 
-# Ready To Get Started?
+# Let's Get To Work!
 
 If you have any questions or would like to hire me to work on your store or site, send me a message here
 or hire me on Upwork. Let's schedule a short call and discuss what your business needs to grow online.

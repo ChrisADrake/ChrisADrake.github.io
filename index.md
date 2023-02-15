@@ -8,7 +8,11 @@ layout: default
 
 <p id="subtitle">Whether you need your first site ready for new shoppers, you're migrating from another e-commerce platform,
  or you just want to revamp an existing store, you've come to the right place.</p>
+
+ <a href="/about.html"><button class="projects center">Learn More</button></a>
+
 <br>
+
 ## New Online Store
 
 Have a new Shopify store built for the needs of your business and to your liking with coaching on 
@@ -68,3 +72,13 @@ site. Here is more of what I offer:
 [![Slate Coffee Home Page](/assets/images/Slate%20Coffee%20Home%20THUMB.png)](/slatecoffee.html)
 
 <a href="/slatecoffee.html"><button class="projects center">See More</button></a>
+
+<br>
+<hr>
+<br>
+
+# Ready To Get Started?
+
+Feel free to contact me today by clicking on the button below.
+
+<a href="/contact.html"><button class="projects center">Contact Me</button></a>

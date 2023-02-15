@@ -12,7 +12,7 @@ description: Learn More About Me
     <div>
         <br>
         <ul>
-            <li><strong>Shopify sites for businesse</strong></li>
+            <li><strong>Shopify sites for businesses</strong></li>
             <li><strong>The words on your screen</strong></li>
             <li><strong>Delicious meals and recipe</strong></li>
             <li><strong>Flavorful cocktails</strong></li>
