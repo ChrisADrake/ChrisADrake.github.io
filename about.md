@@ -23,4 +23,4 @@ description: Learn More About Me
     </div>
 </div>
 <br>
- I am a fast learner starting a new career in front end web development. I do enjoy working on a team to build upon each other’s successes, yet I can also work alone and stay focused to complete tasks and projects in a timely manner.  I will continue learning more on the front end and the back end. I have been programming for more that 20 years!
+ I am an e-commerce and front-end web developer. I do enjoy working on a team to build upon each other’s successes, yet I can also work alone and stay focused to complete tasks and projects in a timely manner.  I will continue learning more on the front end and the back end. I have been programming for more that 20 years!
